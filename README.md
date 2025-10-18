@@ -1,5 +1,3 @@
-README.template
-
 ## Project Number/Title 
 
 * Authors: Di Zhu a1919727; Jinchao Yuan a1936476; Zihan Luo a1916700
