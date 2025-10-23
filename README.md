@@ -6,7 +6,7 @@
 - **Jinchao Yuan** — a1936476
 - **Zihan Luo** — a1916700
 
-- **Group name**: Assignment 3 Groups 92
+### Group name: Assignment 3 Groups 92
 
 ## Overview
 
