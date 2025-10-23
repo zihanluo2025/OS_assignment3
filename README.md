@@ -25,7 +25,7 @@ comp2002-os-mergesort/
 ```
 ## Building the project
 
-### 🧩 Compile
+### Compile
 
 ```bash
 make
