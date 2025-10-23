@@ -53,8 +53,13 @@ void *parallel_mergesort(void *arg) {
     int right = info->right;
     int level = info->level;
 
-	printf("[DEBUG]\n", left, right, level);
-    fflush(stdout);  // force excit
+	// printf("[DEBUG]\n", left, right, level);
+    // fflush(stdout);  // force excit
+
+	if (cutoff == 0) {
+        my_mergesort(left, right);
+        return NULL;
+    }
 
     if (left >= right)
         pthread_exit(NULL);
