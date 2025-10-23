@@ -15,14 +15,14 @@ It explores how concurrency improves performance by sorting subarrays in paralle
 The assignment demonstrates **inter-thread synchronization**, **recursion**, and **shared memory coordination**.
 
 ## Manifest
-
+```bash
 comp2002-os-mergesort/
 ├── Makefile # Compilation instructions for building the project
 ├── mergesort.c # Core implementation: merge, my_mergesort, parallel_mergesort, buildArgs
 ├── mergesort.h # Header file: struct definitions, function prototypes, and global variables
 ├── test-mergesort.c # Entry file: generates random input, runs sorting, and checks correctness
 └── README.md # Project overview
-
+```
 ## Building the project
 
 ### 🧩 Compile
